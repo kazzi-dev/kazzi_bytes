@@ -10,6 +10,8 @@
 <p align="center">
   <a href="https://kazzi-dev.github.io/kazzi_bytes/"><b>▶ Try the live demo</b></a>
   &nbsp;·&nbsp;
+  <a href="https://github.com/kazzi-dev/kazzi_bytes/releases/latest/download/KazziBytes-v1.0.0.apk"><b>⬇ Download for Android</b></a>
+  &nbsp;·&nbsp;
   <img src="https://img.shields.io/badge/Flutter-Material%203-02569B?logo=flutter" alt="Flutter">
   <img src="https://img.shields.io/badge/platforms-Android%20%7C%20iOS%20%7C%20Web-1B1B1F" alt="Platforms">
   <img src="https://img.shields.io/badge/tests-passing-2ea44f" alt="Tests">
